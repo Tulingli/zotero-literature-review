@@ -1,0 +1,20 @@
+pref-title = 文献综述设置
+pref-llm-section = 大模型 API 设置
+pref-llm-api-url = API 地址
+pref-llm-api-key = API Key
+pref-llm-model = 模型名称
+pref-llm-temperature = Temperature
+pref-llm-temperature-hint = (0-1000，实际值除以1000，如700=0.7)
+pref-llm-max-tokens = 最大Token数
+pref-llm-timeout = 请求超时
+pref-llm-timeout-hint = (秒，默认120，长文本建议设大)
+pref-prompt-section = 自定义 Prompt
+pref-prompt-summary = 单篇文献总结 Prompt（留空使用默认）
+pref-prompt-summary-placeholder =
+    .placeholder = 留空使用默认Prompt
+pref-prompt-review = 综述生成 Prompt（留空使用默认）
+pref-prompt-review-placeholder =
+    .placeholder = 留空使用默认Prompt
+pref-test-connection =
+    .label = 测试连接
+pref-help = { $name } 版本 { $version } 构建于 { $time }

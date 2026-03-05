@@ -1,0 +1,20 @@
+pref-title = Literature Review Settings
+pref-llm-section = LLM API Settings
+pref-llm-api-url = API URL
+pref-llm-api-key = API Key
+pref-llm-model = Model Name
+pref-llm-temperature = Temperature
+pref-llm-temperature-hint = (0-1000, actual value / 1000, e.g. 700=0.7)
+pref-llm-max-tokens = Max Tokens
+pref-llm-timeout = Request Timeout
+pref-llm-timeout-hint = (seconds, default 120, increase for long texts)
+pref-prompt-section = Custom Prompts
+pref-prompt-summary = Summary Prompt (leave empty for default)
+pref-prompt-summary-placeholder =
+    .placeholder = Leave empty for default prompt
+pref-prompt-review = Review Prompt (leave empty for default)
+pref-prompt-review-placeholder =
+    .placeholder = Leave empty for default prompt
+pref-test-connection =
+    .label = Test Connection
+pref-help = { $name } Build { $version } { $time }
